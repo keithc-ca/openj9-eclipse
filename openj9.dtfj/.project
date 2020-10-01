@@ -15,10 +15,15 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 	<linkedResources>
-	<link>
-		<name>classes</name>
+		<link>
+			<name>classes</name>
 			<type>2</type>
 			<locationURI>WORKSPACE_LOC/openj9/jcl/src/openj9.dtfj/share/classes</locationURI>
+		</link>
+		<link>
+			<name>classes/com/ibm/jzos/ZFile.java</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/openj9/jcl/stubs/ibm.jzos/share/classes/com/ibm/jzos/ZFile.java</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
