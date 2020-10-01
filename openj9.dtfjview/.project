@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>openj9.dtfjview</name>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+	<link>
+		<name>classes</name>
+			<type>2</type>
+			<locationURI>WORKSPACE_LOC/openj9/jcl/src/openj9.dtfjview/share/classes</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
